@@ -1,0 +1,4 @@
+dict_a={"name":"paddu",
+"age":21,
+"place":"mrkp"}
+print(type(dict_a))

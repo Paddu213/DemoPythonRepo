@@ -1,0 +1,5 @@
+set_a=set(input())
+set_b=set(input())
+set_c=set(input())
+set_d=(set_a)&(set_b)&(set_c)
+print(set_d)
